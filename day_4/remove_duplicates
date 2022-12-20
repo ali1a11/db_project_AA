@@ -1,0 +1,5 @@
+--how to find duplicate names in employees table
+select first_name, count(*)
+from EMPLOYEES
+group by FIRST_NAME
+having count(*)>1;

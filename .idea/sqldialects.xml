@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/day_2/highest14th_salary.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/day_2/subquery_rownum.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_3/alter_table.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_3/create_table.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_3/customerandaddress.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_3/join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_4/create_dev_test.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_4/join_threeTables_fourTables.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_4/left_join_full_outer_join_with_where.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_4/new.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_4/self_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/day_4/union_minus_intersect.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/aggregate_functions.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/aliases.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/full_outer_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/inner_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/left_outer_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/queries_for_Creating_Customer_Address_Tables.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/queries_for_creating_Testers_Developers_Tables.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/right_outer_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/select_distinct.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/self_join.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/set_Operators.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/table_alter_commit.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/table_create_insert_update_delete.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/table_drop_truncate.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/text_functions.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/use_of_Foreign_Key_Primary_Key.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/view.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/from_Short_Videos/where_in_between.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/queries/demo.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/review/xyx.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql_assignments/part1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql_assignments/part2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql_assignments/part3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql_assignments/part3_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql_assignments/part4.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/day_1/group_by.sql" dialect="Oracle" />
+  </component>
+</project>
